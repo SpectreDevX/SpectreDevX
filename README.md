@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Olá, Eu sou o Gustavo</h1>
+<h1 data-importer="text" align="left">Olá, Eu sou o Gustavo</h1>
 
 ###
 
